@@ -1,7 +1,7 @@
 # NEXSEC 2025 Intervarsity Cyber Forensics Challenge Writeup
 
-This writeup was completed as part of a team effort during iGoH 2025.
-My contributions focused on solving, documenting, and explaining selected challenges.
+> This writeup was completed as part of a team effort during NEXSEC 2025.
+> My contributions focused on solving, documenting, and explaining selected challenges.
 
 **Team:** BATERIAAA  
 **Event:** NEXSEC 2025 Intervarsity Cyber Forensics Challenge  
