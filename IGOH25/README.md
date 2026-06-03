@@ -1,5 +1,8 @@
 # iGoH 2025 AntiFlag — Summary Writeup
 
+> This writeup was completed as part of a team effort during iGoH 2025.  
+> My contributions focused on solving, documenting, and explaining selected challenges.
+
 ## Overview
 
 This writeup covers multiple iGoH 2025 AntiFlag challenges across beginner, misc, source code review, AI, reverse engineering, web, and forensics categories. Most challenges were solved by identifying the intended clue, extracting hidden data, detecting simple vulnerabilities, or using helper tools such as CyberChef, Dogbolt, angr, GDB, Netcat, and online decoders.
