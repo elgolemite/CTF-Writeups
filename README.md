@@ -1,4 +1,6 @@
 # CTF Writeups
+![CTF Banner](assets/ctf.png)
+
 
 This repository contains my CTF and cybersecurity lab writeups.
 
