@@ -1,5 +1,13 @@
 # LIGA CTF 2026 
 
+| Round | Focus Category | 
+|---|---|---|
+| Week 1 | Reverse Engineering, Cryptography |
+| Week 2 | Boot2Root |
+| Week 3 | Forensics, Log Analysis, OSINT |
+| Week 4 | Web Exploitation |
+| Week 5 | Labyrinth (Hardware, OS, Scada) |
+| Week 6 | APT: Scenario Based (All Categories) |
 
 
 Format used:
