@@ -1,5 +1,7 @@
 # LIGA CTF 2026 
 
+6 Weeks Continuous Learning CTF Challenge
+
 | Round | Focus Category | 
 |---|---|
 | Week 1 | Reverse Engineering, Cryptography |
